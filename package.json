@@ -10,14 +10,12 @@
     "build": "strapi build",
     "strapi": "strapi"
   },
-  "devDependencies": {},
   "dependencies": {
     "@strapi/plugin-documentation": "^4.5.4",
     "@strapi/plugin-i18n": "4.5.4",
     "@strapi/plugin-users-permissions": "4.5.4",
     "@strapi/strapi": "4.5.4",
     "mysql": "2.18.1",
-    "strapi-plugin-custom-api": "^1.0.4",
     "strapi-plugin-vercel-deploy": "^1.4.0"
   },
   "author": {
